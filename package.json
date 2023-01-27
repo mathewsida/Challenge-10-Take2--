@@ -1,0 +1,27 @@
+{
+    "name": "company-team-generator",
+    "version": "1.0.0",
+    "description": "A program that generates a layout of the company team",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mathewsida/Challenge-10-Take2--.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/mathewsida/Challenge-10-Take2--/issues"
+    },
+    "homepage": "https://github.com/mathewsida/Challenge-10-Take2--#readme",
+    "dependencies": {
+      "async": "^3.2.4",
+      "gitignore": "^0.7.0",
+      "inquirer": "^8.2.4",
+      "jest": "^29.3.1"
+    }
+  }
+  
